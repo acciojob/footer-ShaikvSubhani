@@ -1,1 +1,44 @@
 /* your code here */
+.content{
+	background-color: black;
+	color:white;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+}
+.insta{
+	border-radius:150px;
+	width:60px;
+	height:60px;
+	padding:2px
+}
+
+.logo-details{
+	padding:10px;
+}
+
+h3{
+	text-decoration:underline;
+}
+
+.item{
+	color:white;
+	text-decoration:none;
+}
+.link-boxes
+{
+	display:flex;
+	justify-content:space-between;
+	padding:20px;
+}
+.bottom-details{
+	display:flex;
+	justify-content: space-between;
+	background-color:rgb(44,48,58);
+	color:white;
+	padding:10px;
+}
+
+
+
