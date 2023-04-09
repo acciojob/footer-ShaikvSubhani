@@ -3,6 +3,9 @@
 	background-color: black;
 	color:white;
 }
+.media-icons{
+	display:flex;
+}
 .top{
 	display:flex;
 	justify-content:space-between;
